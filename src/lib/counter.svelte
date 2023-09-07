@@ -4,12 +4,13 @@
 
   const incrementCount = async () => {
     clicks++;
+    clicked = true;
     try {
       const newClicks = await fetch('/');
       clicks = await newClicks.json();
-      clicked = true;
     } catch (e) {
       clicks--;
+      clicked = false;
       error = e;
     }
 
