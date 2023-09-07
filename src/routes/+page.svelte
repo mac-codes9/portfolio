@@ -69,7 +69,7 @@ const skills = ["TypeScript", "TailwindCSS", "Next.js", "SvelteKit"];
     </div>
     <div class="space-y-2">
       <title text="Projects" />
-      <div class="flex flex-col items-center space-y-4 mdl:flex-row mdl:flex-wrap mdl:space-y-0 mx-auto w-full">
+      <div class="flex flex-col items-center space-y-4 md:flex-row md:flex-wrap md:space-y-0 mx-auto w-full">
           {#each projects as project}
             <Project {...project} />
           {/each}
