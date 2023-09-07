@@ -70,7 +70,7 @@ const skills = ["TypeScript", "TailwindCSS", "Next.js", "SvelteKit"];
           of music composition and challenging myself with skateboard tricks
           whenever I'm not recovering from an injury.
         </p>
-        <Counter clicks={Number(data.clicks)} />
+        <Counter clicks={Number(data.clicks)} clicked={data.clicked} />
       </div>
       <div class="space-y-2">
         <Title text="Skills" />
@@ -78,9 +78,9 @@ const skills = ["TypeScript", "TailwindCSS", "Next.js", "SvelteKit"];
           <!-- TODO: Add & when second to last. -->
           {
             skills.map(
-              (skill, i) => skill + (i < skills.length - 1 ? ", " : "")
+              (skill) => skill 
             )
-          }.
+          }
         </span>
       </div>
       <div class="space-y-2">
