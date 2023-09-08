@@ -6,6 +6,9 @@ export default {
       colors: {
         primary: "#0099cc"
       },
+      screens: {
+        'mdl': '896px'
+      }
     }
   }
 }

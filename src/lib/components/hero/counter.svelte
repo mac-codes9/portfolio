@@ -6,7 +6,7 @@
     clicks++;
     clicked = true;
     try {
-      const newClicks = await fetch('/');
+      const newClicks = await fetch('/api');
       clicks = await newClicks.json();
     } catch (e) {
       clicks--;

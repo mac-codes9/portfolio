@@ -5,3 +5,9 @@
   <span>/</span>
   <a href="https://www.youtube.com/@mac-codes9">YouTube</a>
 </div>
+
+<style lang="postcss">
+  a {
+    @apply underline transition-colors duration-300 hover:text-neutral-100;
+  }
+</style>
