@@ -7,6 +7,6 @@ import Projects from '$lib/components/projects/list.svelte';
 export let data;
 </script>
 
-<Hero clicks={Number(data.clicks)} clicked={data.clicked} />
+<Hero clicks={data.clicks} clicked={data.clicked} />
 <Skills />
 <Projects />
