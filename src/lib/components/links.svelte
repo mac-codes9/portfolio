@@ -8,6 +8,6 @@
 
 <style lang="postcss">
   a {
-    @apply underline transition-colors duration-300 hover:text-neutral-100;
+    @apply transition-colors duration-300 hover:text-neutral-100;
   }
 </style>
