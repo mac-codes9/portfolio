@@ -10,16 +10,3 @@
   </main>
   <Footer />
 </body>
-
-<style global lang='postcss'>
-  h1,
-  h2,
-  h3 {
-    @apply text-white;
-  }
-
-  a {
-    @apply underline hover:text-neutral-100;
-  }
-</style>
-
