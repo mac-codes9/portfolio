@@ -18,7 +18,7 @@ const skills = [
 
 <div class='space-y-2 max-w-lg'>
   <Title text='Skills' />
-  <div class="ml-2">
+  <div class="md:ml-2">
   {#each skills as skill, i}
     <span>
      {skill}{#if skills.length - i === 1}.{/if}{#if skills.length - i === 2}{` & `}{/if}{#if skills.length - i !== 1 && skills.length - i !== 2}, {/if}
