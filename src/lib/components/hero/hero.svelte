@@ -7,9 +7,7 @@
 <div class="space-y-2">
  <p>
     I am a seasoned web developer with over 3 years of experience. Currently
-    honing my skills in NextJS, Typescript, and other cutting-edge
-    technologies with the lovely folk at
-    <a href="https://3sidedcube.com">3 Sided Cube</a>.
+    honing my skills in NextJS, Typescript, and other cutting-edge technologies.
   </p>
   <p>
     In addition to my passion for coding, I also enjoy exploring the world of
