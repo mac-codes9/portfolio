@@ -6,6 +6,7 @@ export async function GET() {
   return new Response(await client.get('clicks'));
 }
 
-export async function PUT() {
-  return new Response(await client.incr('clicks'));
+export async function PUT({cookies}) {
+  cookies.set(‘clicks’, true);
+  return new Response(await client.incr('clicks'))
 }
