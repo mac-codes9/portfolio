@@ -1,15 +1,14 @@
 /** @type {import('tailwindcss').Config}*/
 export default {
   content: ["./src/**/*.{html,js,svelte,ts}"],
-    theme: {
+  theme: {
     extend: {
       colors: {
-        primary: "#0099cc"
+        primary: "#0099cc",
       },
       screens: {
-        'mdl': '896px'
-      }
-    }
-  }
-}
-
+        mdl: "896px",
+      },
+    },
+  },
+};
