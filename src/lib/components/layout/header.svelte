@@ -5,7 +5,7 @@
 
 <header class="space-y-2">
   <Glow />
-  <a href="mailto:maclong9@icloud.com" class=“no-underline”>maclong9@icloud.com</a>
+  <a class="no-underline" href="mailto:maclong9@icloud.com">maclong9@icloud.com</a>
   <Links />
 </header>
 
