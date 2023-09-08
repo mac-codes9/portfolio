@@ -7,6 +7,6 @@ export async function GET() {
 }
 
 export async function PUT({cookies}) {
-  cookies.set('clicks', true, {path: '/'});
+  cookies.set('clicked', true, {path: '/'});
   return new Response(await client.incr('clicks'))
 }
