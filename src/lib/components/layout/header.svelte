@@ -1,6 +1,6 @@
 <script>
   import Glow from '$lib/components/glow.svelte';
-  import Links from '$lib/components/links.svelte';
+  import Links from './links.svelte';
 </script>
 
 <header class="space-y-2">

@@ -1,6 +1,6 @@
 <script>
   import Title from '$lib/components/title.svelte';
-  import Links from '$lib/components/links.svelte';
+  import Links from './links.svelte';
 </script>
 
 <footer class='space-y-4'>

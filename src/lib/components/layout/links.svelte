@@ -7,7 +7,7 @@
 </div>
 
 <style lang=“postcss”>
-a {
-  @apply no-underline;
-}
+  a {
+    @apply no-underline p-1;
+  }
 </style>

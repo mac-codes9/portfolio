@@ -5,6 +5,8 @@
 - TailwindCSS
 - Redis
 
+Hosted on Vercel and Upstash.
+
 ## Todo
 
 - [x] Refactor Code.
