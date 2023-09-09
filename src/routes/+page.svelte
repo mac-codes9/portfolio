@@ -1,5 +1,4 @@
 <script>
-import '../app.postcss';
 import Hero from '$lib/components/hero/hero.svelte';
 import Skills from '$lib/components/skills.svelte';
 import Projects from '$lib/components/projects/list.svelte';
