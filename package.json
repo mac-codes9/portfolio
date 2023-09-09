@@ -23,8 +23,8 @@
   "type": "module",
   "postcss": {
     "plugins": [
-      "tailwindcss",
-      "autoprefixer"
+      "tailwindcss": {},
+      "autoprefixer": {}
     ]
   }
 }
