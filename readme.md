@@ -7,14 +7,13 @@
 
 Hosted on Vercel and Upstash.
 
-<div>
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" width="1000" height="330">
-  <style>
-			.gauge-base {
-				opacity: 0.1
-			}
 
-			.gauge-arc {
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" width="1000" height="330">
+		<style>
+				.gauge-base {
+			   opacity: 0.1
+			 }
+				.gauge-arc {
 				fill: none;
 				animation-delay: 250ms;
 				stroke-linecap: round;
@@ -22,13 +21,11 @@ Hosted on Vercel and Upstash.
 				transform-origin: 100px 60px;
 				animation: load-gauge 1s ease forwards
 			}
-
 			.guage-text {
 				font-size: 40px;
 				font-family: monospace;
 				text-align: center
 			}
-
 			.guage-red {
 				color: #ff4e42;
 				fill: #ff4e42;
@@ -49,7 +46,6 @@ Hosted on Vercel and Upstash.
 				fill: #5c5c5c;
 				stroke: #5c5c5c
 			}
-
 			.guage-title {
 				color: #737373;
 				fill: #737373;
@@ -58,7 +54,6 @@ Hosted on Vercel and Upstash.
 				line-height: 26px;
 				font-family: Roboto, Halvetica, Arial, sans-serif
 			}
-
 			@keyframes load-gauge {
 				from {
 					stroke-dasharray: 0 352.858
@@ -120,7 +115,6 @@ Hosted on Vercel and Upstash.
 						<stop stop-color="#64B5F6" offset="0%"></stop>
 						<stop stop-color="#2979FF" offset="100%"></stop>
 					</linearGradient>
-
 					<g id="lh-gauge--pwa__fast-reliable-badge-0">
 						<circle fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
 						<path fill="#304FFE" d="M10 3.58l5.25 2.34v3.5c0 3.23-2.24 6.26-5.25 7-3.01-.74-5.25-3.77-5.25-7v-3.5L10 3.58zm-.47 10.74l2.76-4.83.03-.07c.04-.08 0-.24-.22-.24h-1.64l.47-3.26h-.47l-2.7 4.77c-.02.01.05-.1-.04.05-.09.16-.1.31.18.31h1.63l-.47 3.27h.47z"></path>
@@ -191,7 +185,6 @@ Hosted on Vercel and Upstash.
 			</g>
 	</svg>
 </svg>
-</div>
 
 ## Todo
 
