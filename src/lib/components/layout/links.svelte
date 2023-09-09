@@ -8,6 +8,6 @@
 
 <style lang=“postcss”>
   a {
-    @apply no-underline p-1;
+    @apply no-underline p-2;
   }
 </style>
