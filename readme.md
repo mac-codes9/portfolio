@@ -8,6 +8,7 @@
 Hosted on Vercel and Upstash.
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" width="1000" height="330">
+
 		<style>
 			.gauge-base {
 				opacity: 0.1
