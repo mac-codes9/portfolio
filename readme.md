@@ -8,8 +8,7 @@
 Hosted on Vercel and Upstash.
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" width="1000" height="330">
-
-		<style>
+  <style>
 			.gauge-base {
 				opacity: 0.1
 			}
@@ -189,8 +188,8 @@ Hosted on Vercel and Upstash.
 				<text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="26" id="svg_7" y="45" x="280" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#737373">50-89</text>
 				<text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="26" id="svg_8" y="45" x="480" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#737373">90-100</text>
 			</g>
-		</svg>
 	</svg>
+</svg>
 
 ## Todo
 
