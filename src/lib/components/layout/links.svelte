@@ -6,8 +6,8 @@
   <a href="https://www.youtube.com/@mac-codes9">YouTube</a>
 </div>
 
-<style lang=“postcss”>
+<style lang="postcss">
   a {
-    @apply no-underline p-1;
+    @apply no-underline py-3 px-2;
   }
 </style>
