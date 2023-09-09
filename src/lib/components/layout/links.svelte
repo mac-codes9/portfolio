@@ -8,6 +8,6 @@
 
 <style lang="postcss">
   a {
-    @apply no-underline p-2;
+    @apply no-underline min-w-[48px] min-h-[48px];
   }
 </style>
