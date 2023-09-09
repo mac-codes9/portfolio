@@ -13,3 +13,4 @@ Hosted on Vercel and Upstash.
 
 - [x] Refactor Code.
 - [ ] Add smooth count up to new click number.
+- [ ] Add PMA that will store button click until online.
