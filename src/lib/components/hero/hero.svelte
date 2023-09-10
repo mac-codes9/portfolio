@@ -7,7 +7,7 @@
 <div class="space-y-2">
  <p>
     I am a competent developer with 3 years of professional coding experience. Currently
-    honing my skills in NextJS, Typescript, and other cutting-edge technologies.
+    honing my skills in Next.js, Typescript, and other cutting-edge technologies.
     I am also learning developer tools and systems programming with Rust and Zig.
   </p>
   <p>
