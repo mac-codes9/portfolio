@@ -2,17 +2,18 @@
 import Title from '$lib/components/title.svelte';
 
 const skills = [
-  "TypeScript",
-  "TailwindCSS",
-  "Next.js",
-  "SvelteKit",
+  "Shell",
   "Git",
   "HTML",
   "CSS",
   "JavaScript",
+  "TypeScript",
   "Lua",
-  "Shell",
-  "Vim",
+  "Database Management",
+  "Cloud Services",
+  "DevOps",
+  "CI/CD",
+  "Testing",
 ];
 </script>
 
