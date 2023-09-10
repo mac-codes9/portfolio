@@ -6,7 +6,7 @@
 <h1 class="text-3xl mb-6">Hi, I'm Mac 👋</h1>
 <div class="space-y-2">
  <p>
-    I am an experienced developer with over 3 years of experience. Currently
+    I am an experienced developer with 3 years of professional coding experience. Currently
     honing my skills in NextJS, Typescript, and other cutting-edge technologies.
     I am also learning developer tools and systems programming with Rust and Zig.
   </p>
