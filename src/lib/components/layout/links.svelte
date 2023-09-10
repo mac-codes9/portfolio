@@ -8,6 +8,9 @@
 
 <style lang="postcss">
   a {
-    @apply no-underline py-3 pr-2;
+    @apply no-underline py-3 w-full;
+  }
+  span {
+    @apply px-2;
   }
 </style>
