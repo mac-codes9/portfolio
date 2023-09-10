@@ -8,6 +8,6 @@
 
 <style lang="postcss">
   a {
-    @apply no-underline py-3 px-2;
+    @apply no-underline py-3 pr-2;
   }
 </style>
