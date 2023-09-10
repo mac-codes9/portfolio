@@ -1,10 +1,10 @@
-<div>
+<nav>
   <a href="https://x.com/Mac_Codes9">X</a>
   <span>/</span>
   <a href="https://github.com/mac-codes9">GitHub</a>
   <span>/</span>
   <a href="https://instagram.com/mac9sb?igshid=OGQ5ZDc2ODk2ZA==">Skating</a>
-</div>
+</nav>
 
 <style lang="postcss">
   a {
