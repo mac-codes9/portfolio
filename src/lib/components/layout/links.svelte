@@ -11,6 +11,6 @@
     @apply no-underline py-3 w-full;
   }
   span {
-    @apply px-2;
+    @apply px-1;
   }
 </style>
