@@ -6,7 +6,8 @@
 
 	onMount(() => {
 		const interval = setInterval(async () => {
-      clicks = await fetch('/').then(res => res.json());
+      oldClicks = clicks;
+      newClicks = await fetch('/').then(res => res.json());
 		}, 5000);
 
 		return () => {
