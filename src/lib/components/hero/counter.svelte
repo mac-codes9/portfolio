@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
   import { invalidate } from '$app/navigation';
   export let clicks, clicked;
-  let error;
+  let error, clicks, oldClicks;
 
 	onMount(() => {
 		const interval = setInterval(async () => {
