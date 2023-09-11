@@ -14,6 +14,13 @@
 		};
 	});
 
+  setInterval(() => {
+    if (oldClicks < newClicks) {
+      oldClicks++;
+      clicks = oldClicks;
+    }
+  }, 5);
+
   const incrementCount = async () => {
     clicks++;
     clicked = true;
