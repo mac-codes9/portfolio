@@ -20,7 +20,7 @@
       oldClicks++;
       clicks = oldClicks;
     }
-  }, 5ms);
+  }, 5);
 
   const incrementCount = async () => {
     clicks++;
