@@ -35,7 +35,6 @@
   };
 </script>
 
-{clicks} - {oldClicks} - {newClicks}
 <div class="mt-5 space-x-2">
   <span>{!error ? `${Number(clicks)} Clicks` : error}</span>
   <button
