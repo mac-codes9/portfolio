@@ -12,8 +12,8 @@ Hosted on Vercel and Upstash.
 ## Todo
 
 - [x] Refactor Code.
-- [ ] Add smooth count up to new click number.
-- [ ] Add PMA that will store button click until online.
+- [x] Add smooth count up to new click number.
+- [ ] Add PWA that will store button click until online.
 - [ ] Add translation menu top right and DE translations.
 - [ ] Now Playing, redis: ‘{track: {name, url, artist}, datetime}’
   - Check on load, if recently updated use ‘Now Playing’. Else ‘Recently Played’
