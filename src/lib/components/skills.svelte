@@ -1,32 +1,31 @@
 <script>
-import Title from '$lib/components/title.svelte';
+  import Title from "$lib/components/title.svelte";
+  import punctuate from "$lib/utilities/punctuate";
 
-const skills = [
-  "Shell",
-  "Git",
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "Lua",
-  "Database Management",
-  "Cloud Services",
-  "Containerisation",
-  "DevOps",
-  "CI/CD",
-  "Testing",
-  "Problem Solving",
-  "Communication",
-];
+  const skills = [
+    "Shell",
+    "Git",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Lua",
+    "Database Management",
+    "Cloud Services",
+    "Containerisation",
+    "DevOps",
+    "CI/CD",
+    "Testing",
+    "Problem Solving",
+    "Communication",
+    "Time Management",
+  ];
 </script>
 
-<div class='space-y-2 max-w-lg'>
-  <Title text='Skills' />
-  <div class="md:ml-2">
+<div class="space-y-2 max-w-lg">
+  <Title text="Skills" />
+
   {#each skills as skill, i}
-    <span>
-     {skill}{#if skills.length - i === 1}.{/if}{#if skills.length - i === 2}{` & `}{/if}{#if skills.length - i !== 1 && skills.length - i !== 2}, {/if}
-    </span>
+    {skill}<span>{punctuate(skills.length, i)}</span>
   {/each}
-  </div>
 </div>

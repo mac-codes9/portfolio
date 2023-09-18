@@ -1,11 +1,17 @@
 <script>
-  import Glow from '$lib/components/glow.svelte';
-  import Links from './links.svelte';
+  import Glow from "$lib/components/glow.svelte";
+  import Links from "./links.svelte";
+  import { locale, locales } from "$lib/utilities/translation/locale";
 </script>
 
-<header class="space-y-2">
+<header class="mb-16">
   <Glow />
-  <a class="no-underline p-2 pl-0" href="mailto:maclong9@icloud.com">maclong9@icloud.com</a>
-  <Links />
+  <div class="w-full flex justify-between items-center">
+    <Links />
+    <select class="bg-transparent" bind:value={$locale}>
+      {#each locales as locale}
+        <option class="bg-transparetn" value={locale}>{locale}</option>
+      {/each}
+    </select>
+  </div>
 </header>
-
