@@ -24,8 +24,7 @@
 
 <div class="space-y-2 max-w-lg">
   <Title text="Skills" />
-
   {#each skills as skill, i}
-    {skill}<span>{punctuate(skills.length, i)}</span>
+    {skill}{punctuate(skills.length, i)}
   {/each}
 </div>
