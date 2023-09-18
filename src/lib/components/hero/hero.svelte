@@ -12,8 +12,7 @@
   </p>
   <p>
     In addition to my passion for programming, I also enjoy exploring the world of
-    music composition and challenging myself with skateboard tricks whenever
-    I'm not recovering from an injury.
+    music composition and challenging myself with skateboard tricks.
   </p>
   <Counter {clicks} {clicked} />
 </div>
