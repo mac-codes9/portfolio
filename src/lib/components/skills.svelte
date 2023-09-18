@@ -11,9 +11,12 @@ const skills = [
   "Lua",
   "Database Management",
   "Cloud Services",
+  "Containerisation",
   "DevOps",
   "CI/CD",
   "Testing",
+  "Problem Solving",
+  "Communication",
 ];
 </script>
 
