@@ -1,4 +1,4 @@
-<div class="space-y-2 text-normal">
+<div class="space-y-2 text-md">
   <a class="no-underline p-2 pl-0" href="mailto:maclong9@icloud.com">
     maclong9@icloud.com
   </a>
