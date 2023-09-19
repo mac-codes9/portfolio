@@ -13,7 +13,7 @@
 
 <style lang="postcss">
   a {
-    @apply no-underline py-3 w-full;
+    @apply no-underline;
   }
   span {
     @apply px-1;
