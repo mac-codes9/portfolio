@@ -60,7 +60,7 @@ export default {
     },
     contact: {
       title: "Contact",
-      cta: "Email me or follow me on social media using the links below.”,
+      cta: "Email me or follow me on social media using the links below.",
     },
   },
   de: {
@@ -124,7 +124,7 @@ export default {
     },
     contact: {
       title: "Kontakt",
-      cta: "Schreiben Sie mir eine E-Mail oder folgen Sie mir auf den sozialen Medien über die unten stehenden Links.”,
+      cta: "Schreiben Sie mir eine E-Mail oder folgen Sie mir auf den sozialen Medien über die unten stehenden Links.",
     },
   },
 };
