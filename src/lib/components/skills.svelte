@@ -16,7 +16,6 @@
     "CI/CD",
     "Problem Solving",
     "Testing",
-    "DevOps",
     "Communication",
     "Time Management",
   ];
