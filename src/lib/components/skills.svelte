@@ -13,10 +13,10 @@
     "Database Management",
     "Cloud Services",
     "Containerisation",
-    "DevOps",
     "CI/CD",
-    "Testing",
     "Problem Solving",
+    "Testing",
+    "DevOps",
     "Communication",
     "Time Management",
   ];
