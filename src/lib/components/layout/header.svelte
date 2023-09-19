@@ -8,7 +8,8 @@
   <Glow />
   <div class="w-full flex justify-between items-center">
     <Links />
-    <select class="bg-transparent" bind:value={$locale}>
+    <label for="locale" class="sr-only">Locale</label>
+    <select name="locale" class="bg-transparent" bind:value={$locale}>
       {#each locales as locale}
         <option class="bg-transparetn" value={locale}>{locale}</option>
       {/each}
