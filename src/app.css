@@ -13,5 +13,5 @@ a {
 }
 
 button { 
-  @apply text-neutral-400 bg-transparent border-[1px] border-neutral-400 font-bold px-2 py-1 rounded-md transition-colors duration-300 hover:bg-neutral-100 hover:text-neutral-100 disabled:border-neutral-600 disabled:text-neutral-900 disabled:bg-transparent;
+  @apply text-neutral-400 bg-transparent border-[1px] border-neutral-400 font-bold px-2 py-1 rounded-md transition-colors duration-300 hover:bg-neutral-100 hover:text-neutral-100 disabled:border-neutral-600 disabled:text-neutral-600 disabled:bg-transparent;
 }
