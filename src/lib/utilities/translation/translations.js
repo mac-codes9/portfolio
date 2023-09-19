@@ -124,7 +124,7 @@ export default {
     },
     contact: {
       title: "Kontakt",
-      cta: "Schreiben Sie mir eine E-Mail an maclong9@icloud.com oder folgen Sie mir auf den verschiedenen sozialen Links unten.",
+      cta: "Schreiben Sie mir eine E-Mail oder folgen Sie mir auf den sozialen Medien über die unten stehenden Links.”,
     },
   },
 };
