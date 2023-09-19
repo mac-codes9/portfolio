@@ -4,8 +4,9 @@ import Skills from '$lib/components/skills.svelte';
 import Projects from '$lib/components/projects/list.svelte';
 
 export let data;
+const {clicks, clicked} = data;
 </script>
 
-<Hero clicks={data.clicks} clicked={data.clicked} />
+<Hero {clicks} {clicked} />
 <Skills />
 <Projects />
