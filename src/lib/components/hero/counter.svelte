@@ -35,7 +35,7 @@
   };
 </script>
 
-<div class="mt-5 space-x-2">
+<div class="space-x-2">
   <span>{!error ? `${Number(clicks)} Clicks` : error}</span>
   <button 
     on:click={incrementCount}
