@@ -60,7 +60,7 @@ export default {
     },
     contact: {
       title: "Contact",
-      cta: "Email me at maclong9@icloud.com or follow me on the various social links below.",
+      cta: "Email me or follow me on social media using the links below.”,
     },
   },
   de: {
