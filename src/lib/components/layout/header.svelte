@@ -6,9 +6,10 @@
 
 <header class="mb-16">
   <Glow />
-  <div class="w-full flex justify-between items-center">
+  <div class="w-full flex justify-between items-start">
     <Links />
-    <select class="bg-transparent" bind:value={$locale}>
+    <label for="locale" class="sr-only">Locale</label>
+    <select id="locale" class="bg-transparent" bind:value={$locale}>
       {#each locales as locale}
         <option class="bg-transparetn" value={locale}>{locale}</option>
       {/each}

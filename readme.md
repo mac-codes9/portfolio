@@ -20,3 +20,8 @@ Hosted on Vercel and Upstash.
   - Check on load, if recently updated use ‘Now Playing’. Else ‘Recently Played’
   - ‘Now Playing’: animated equaliser neutral-100, ‘Recently Played, no animation neutral-400
 - [ ] Add notifcation when users connection drops.
+- [ ] Add glowy light in footer
+- [ ] Update skills to be nw gradint headers with descriptions
+  - [ ] Web Development
+  - [ ] Cloud Services
+  - [ ] Soft Skills

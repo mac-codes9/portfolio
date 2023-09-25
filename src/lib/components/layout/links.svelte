@@ -1,4 +1,4 @@
-<div class="space-y-2">
+<div class="space-y-3">
   <a class="no-underline p-2 pl-0" href="mailto:maclong9@icloud.com">
     maclong9@icloud.com
   </a>
@@ -13,7 +13,7 @@
 
 <style lang="postcss">
   a {
-    @apply no-underline py-3 w-full;
+    @apply no-underline;
   }
   span {
     @apply px-1;

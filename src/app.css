@@ -16,3 +16,10 @@ h3 {
 a {
   @apply underline hover:text-neutral-100;
 }
+<<<<<<< HEAD
+=======
+
+button, .button { 
+  @apply text-neutral-400 bg-transparent border-[1px] border-neutral-400 px-2 py-1 rounded-md transition-colors duration-300 hover:bg-neutral-100 hover:text-neutral-100 disabled:border-neutral-600 disabled:text-neutral-600 disabled:bg-transparent;
+}
+>>>>>>> 5331502c293e5fb3cc6ad23061aaf37ed1bb7c64
