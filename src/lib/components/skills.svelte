@@ -32,6 +32,8 @@
   h2 {
     @apply text-3xl m-0 font-bold bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent;
     @apply first:from-red-500 first:to-yellow-500;
-    @apply last:from-blue-500 last:to-emerald-500;
+  }
+  h2:last-child {
+    @apply from-blue-500 to-emerald-500;
   }
 </style>
