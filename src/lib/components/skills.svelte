@@ -21,7 +21,7 @@
 </script>
 
 <Title text="Skills" />
-<div class='space-y-2 max-w-lg mx-auto'>
+<div class='space-y-8 max-w-lg mx-auto'>
   {#each skills as { heading, description }}
     <h2>{heading}</h2>
     <p>{description}</p>
@@ -29,8 +29,8 @@
 </div>
 
 <style lang="postcss">
-  div h2 {
-    @apply  font-bold bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent;
+  h2 {
+    @apply text-3xl m-0 font-bold bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent;
     @apply first:from-red-500 first:to-yellow-500;
     @apply last:from-blue-500 last:to-emerald-500;
   }
