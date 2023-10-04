@@ -4,7 +4,7 @@
 </script>
 
 <h1 class="text-3xl mb-6">Hi, I'm Mac 👋</h1>
-<div class="space-y-2 max-w-lg">
+<div class="space-y-2 max-w-lg md:max-w-none">
   <p>
     I am a competent developer with 3 years of professional coding experience.
     Currently honing my skills in Next.js, TypeScript, and other cutting-edge
