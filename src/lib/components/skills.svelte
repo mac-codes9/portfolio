@@ -25,7 +25,7 @@
 </script>
 
 <Title text="Skills" />
-<div class='flex flex-col items-center space-y-4 mdl:flex-row mdl:flex-wrap mdl:items-start mdl:space-y-0 mx-auto pb-10 mdl:px-8'>
+<div class='flex flex-col items-center space-y-4 mdl:flex-row mdl:flex-wrap mdl:items-start mdl:space-y-0 mx-auto pb-10 mdl:px-4'>
   {#each skills as { heading, description }}
     <div class="mdl:w-[346px] mdl:mb-8 mdl:mx-4">
     <h2>{heading}</h2>
