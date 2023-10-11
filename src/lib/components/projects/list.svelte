@@ -24,8 +24,7 @@
        url: 'https://app.com',
        name: 'App Name',
        description:
-         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui nesciunt dolore dolores id.',
-     },
+
     ];
 </script>
 
