@@ -4,27 +4,10 @@
     const projects = [
      {
        url: 'https://app.com',
-       name: 'App Name',
+       name: 'Nocturnal Etchings',
        description:
-         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui nesciunt dolore dolores id.',
-     },
-     {
-       url: 'https://app.com',
-       name: 'App Name',
-       description:
-         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui nesciunt dolore dolores id.',
-     },
-     {
-       url: 'https://app.com',
-       name: 'App Name',
-       description:
-         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui nesciunt dolore dolores id.',
-     },
-     {
-       url: 'https://app.com',
-       name: 'App Name',
-       description:
-
+         'eCommerce store built with Next.js and Medusa.js',
+     }
     ];
 </script>
 
