@@ -3,12 +3,6 @@
     import Project from './item.svelte';
     const projects = [
      {
-       url: 'https://nocturnal-etchings.vercel.app',
-       name: 'Nocturnal Etchings',
-       description:
-         'eCommerce store for artist built with Next.js and Medusa.js.',
-     },
-     {
       url: 'https://3sidedcube.com',
       name: '3 Sided Cube',
       description: 'Frontend Developer here working with WordPress, React, Next and other tools.'
