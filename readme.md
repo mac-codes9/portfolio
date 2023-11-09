@@ -1,4 +1,4 @@
-# Portfolio
+https://ubiquitous-space-train-x767vgv97gwhvqr5-5173.app.github.dev/# Portfolio
 
 - Bun
 - SvelteKit
@@ -13,15 +13,8 @@ Hosted on Vercel and Upstash.
 
 - [x] Refactor Code.
 - [x] Add smooth count up to new click number.
-- [ ] Add PWA.
-  - [ ] Uncaught (in promise) SyntaxError: Unexpected end of JSON input
 - [ ] Add translation menu top right and DE translations.
 - [ ] Now Playing, redis: ‘{track: {name, url, artist}, datetime}’
   - Check on load, if recently updated use ‘Now Playing’. Else ‘Recently Played’
   - ‘Now Playing’: animated equaliser neutral-100, ‘Recently Played, no animation neutral-400
-- [ ] Add notifcation when users connection drops.
 - [ ] Add glowy light in footer
-- [ ] Update skills to be nw gradint headers with descriptions
-  - [ ] Web Development
-  - [ ] Cloud Services
-  - [ ] Soft Skills
