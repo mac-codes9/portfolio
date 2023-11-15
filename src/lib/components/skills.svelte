@@ -10,19 +10,19 @@
     {
       heading: "Systems Knowledge",
       description:
-        "I have a solid understanding of unix systems, scripting languages and cloud systems which aids my work.",
+        "Understanding of system architectures, databases, and server-side technologies to build scalable and efficient applications.",
     },
     {
       heading: "Soft Skills",
       description:
-        "Communication, time management and attention to detail are some strengths I find myself using regularly.",
+        "Strong communication skills for effective collaboration, problem-solving abilities, and the capacity to work well in a team.",
     },
     {
       heading: "Developer Tools",
       description:
-        "I am proficient in SQL and NoSQL databases. Additionally, I implement continuous integration and vcs to streamline development.",
-    },
-  ];
+        "Familiarity with a variety of development tools, version control systems (e.g., Git), and integrated development environments (IDEs) to streamline the development process.",
+    }
+]
 </script>
 
 <Title text="Skills" />
