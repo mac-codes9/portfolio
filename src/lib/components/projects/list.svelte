@@ -5,7 +5,7 @@
      {
       url: 'https://3sidedcube.com',
       name: '3 Sided Cube',
-      description: 'Frontend Developer role working with WordPress, React, Next and other tools.'
+      description: 'Frontend role working with WordPress, React, Next and other tools.'
      },
      {
       url: 'https://whatsername.vercel.app/',
