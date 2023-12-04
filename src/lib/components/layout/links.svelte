@@ -1,4 +1,4 @@
-<div class="space-y-3 flex-col">
+<div class="space-y-6 flex-col">
   <div class="flex items-center">
     <a href="/">mac-codes</a> 
     <span class="px-2">/</span>
