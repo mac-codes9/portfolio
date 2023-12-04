@@ -10,5 +10,4 @@
   <main class="space-y-12 mx-auto">
     <slot />
   </main>
-  <Footer />
 </body>
