@@ -1,5 +1,5 @@
-<div class="space-y-10 flex-col">
-  <div class="flex items-center">
+<div class="flex-col">
+  <div class="flex items-center pb-4">
     <a href="/">mac-codes</a> 
     <span class="px-2">/</span>
     <a class="font-semibold text-white" href="https://github.com/mac-codes9/portfolio">portfolio</a>
