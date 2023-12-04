@@ -1,6 +1,6 @@
 <div class="flex-col">
   <div class="flex items-center pb-2">
-    <a href="/">mac-codes</a> 
+    <a href="https://github.com/mac-codes9">mac-codes9</a> 
     <span class="px-2">/</span>
     <a class="font-semibold text-white" href="https://github.com/mac-codes9/portfolio">portfolio</a>
   </div>
