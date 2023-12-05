@@ -32,7 +32,7 @@
       target="_blank"
       rel="noreferrer"
       class="w-full no-underline border-neutral-400 rounded-md border-[.5px] py-4 px-2 group transition-all relative duration-700 
-             md:mx-9 md:my-4
+             md:mx-4 md:my-4
              hover:border-neutral-100 hover:scale-105 hover:-translate-y-1 hover:text-neutral-400 hover:border-[1px] 
              mdl:w-[326px]"
     >
