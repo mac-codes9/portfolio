@@ -30,7 +30,7 @@
   class="flex flex-col items-center space-y-4 mdl:flex-row mdl:flex-wrap mdl:items-start mdl:space-y-0 mx-auto mdl:px-4"
 >
   {#each skills as { heading, description }}
-    <div class="mdl:w-[326px] mdl:mb-8 md:mx-4 py-4 md:py-0">
+    <div class="skill mdl:w-[326px] mdl:mb-8 md:mx-4 py-4 md:py-0">
       <h2>{heading}</h2>
       <p>{description}</p>
     </div>
@@ -38,16 +38,16 @@
 </div>
 
 <style lang="postcss">
-  div h2 {
+  .skill h2 {
     @apply text-3xl font-bold bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent mb-2;
   }
-  div:first-child h2 {
+  .skill:first-child h2 {
     @apply from-red-500 to-orange-500;
   }
-  div:nth-child(2) h2 {
+  .skill:nth-child(2) h2 {
     @apply from-yellow-500 to-green-500;
   }
-  div:last-child h2 {
+  .skill:last-child h2 {
     @apply from-cyan-500 to-blue-500;
   }
 </style>
