@@ -40,7 +40,7 @@
         rel="noreferrer"
         class="w-full no-underline border-neutral-400 rounded-md border-[.5px] py-4 px-2 group transition-all relative duration-700
              hover:border-neutral-100 hover:scale-105 hover:-translate-y-1 hover:text-neutral-400 hover:border-[1px]
-             my-2 md:m-2
+             my-4 md:m-2
              mdl:w-[364px]"
       >
         <h3 class="text-neutral-100 mb-4">{name}</h3>
