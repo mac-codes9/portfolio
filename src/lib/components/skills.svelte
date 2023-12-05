@@ -3,7 +3,7 @@
 
   const skills = [
     {
-      heading: "Web Development",
+      heading: "Programming",
       description:
         "Beautiful, high speed websites and efficient systems programs with Rust, Next.js, Typescript, StoryBook, Tailwind & More.",
     },
