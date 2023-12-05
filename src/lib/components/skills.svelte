@@ -5,7 +5,7 @@
     {
       heading: "Web Development",
       description:
-        "Beautiful, high speed websites and efficient systems programs with Rust, Next.js, Typescript & More.",
+        "Beautiful, high speed websites and efficient systems programs with Rust, Next.js, Typescript, StoryBook, Tailwind & More.",
     },
     {
       heading: "Systems Knowledge",
@@ -25,16 +25,18 @@
   ];
 </script>
 
-<Title text="Skills" />
-<div
-  class="flex flex-col items-center justify-center mx-auto mdl:flex-row mdl:flex-wrap mdl:items-start"
->
-  {#each skills as { heading, description }}
-    <div class="skill mdl:w-[326px] mdl:mb-8 pb-4 md:py-0 md:mx-9 md:my-4">
-      <h2>{heading}</h2>
-      <p>{description}</p>
-    </div>
-  {/each}
+<div>
+  <Title text="Skills" />
+  <div
+    class="flex flex-col items-center justify-center mx-auto mdl:flex-row mdl:flex-wrap"
+  >
+    {#each skills as { heading, description }}
+      <div class="skill mdl:w-[326px] md:py-0 md:mx-9 md:my-4">
+        <h2>{heading}</h2>
+        <p>{description}</p>
+      </div>
+    {/each}
+  </div>
 </div>
 
 <style lang="postcss">
