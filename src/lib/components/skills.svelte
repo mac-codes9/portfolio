@@ -20,7 +20,7 @@
     {
       heading: "Developer Tools",
       description:
-        "Familiarity with a variety of development tools, version control systems (e.g., Git), and integrated development environments to streamline the development process.",
+        "Familiarity with a variety of development tools, Git, and integrated development environments to streamline the development process.",
     }
 ]
 </script>
