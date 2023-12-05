@@ -19,6 +19,12 @@
       description:
         "Landing Page, Blog and Storefront built with Next.js, Stripe & Sanity.",
     },
+{
+      url: "https://whatsername.vercel.app/",
+      name: "Whatsername",
+      description:
+        "Landing Page, Blog and Storefront built with Next.js, Stripe & Sanity.",
+    },
   ];
 </script>
 
