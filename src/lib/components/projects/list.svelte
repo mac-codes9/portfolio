@@ -3,6 +3,11 @@
     import Project from './item.svelte';
     const projects = [
      {
+      url: 'https://github.com/mac-codes9/initialise',
+      name: 'Initialise',
+      description: 'A Rust program to configure my dotfiles and run system tools installation.'
+     },
+     {
       url: 'https://3sidedcube.com',
       name: '3 Sided Cube',
       description: 'Frontend role working with WordPress, React, Next and other tools.'
