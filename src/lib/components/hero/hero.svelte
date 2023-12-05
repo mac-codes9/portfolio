@@ -3,8 +3,8 @@
   export let clicks, clicked;
 </script>
 
-<h1 class="text-3xl mb-6">Hi, I'm Mac 👋</h1>
 <div class="space-y-2 max-w-lg mx-auto md:max-w-2xl">
+  <h1 class="text-3xl mb-6">Hi, I'm Mac 👋</h1>
   <p>
     I am a software developer, incredibly passionate about building a healthy,
     happy and sustainable future for planet earth and beyond, through technology
