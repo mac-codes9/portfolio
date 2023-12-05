@@ -20,7 +20,7 @@
         "Landing Page, Blog and Storefront built with Next.js, Stripe & Sanity.",
     },
     {
-      url: "https://github.com/mac-codes9/todo/tree/rust-htmx",
+      url: "https://todo.shuttle.rs",
       name: "Todo List",
       description:
         "A todo list application built with Rust, HTMX, Askama & TailwindCSS",
