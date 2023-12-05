@@ -30,7 +30,7 @@
   class="flex flex-col items-center mx-auto mdl:flex-row mdl:flex-wrap mdl:items-start mdl:space-y-4"
 >
   {#each skills as { heading, description }}
-    <div class="skill mdl:w-[326px] mdl:mb-8 py-4 md:py-0">
+    <div class="skill mdl:w-[326px] mdl:mb-8 py-4 md:py-0 md:mx-2">
       <h2>{heading}</h2>
       <p>{description}</p>
     </div>
