@@ -20,7 +20,7 @@
         "Landing Page, Blog and Storefront built with Next.js, Stripe & Sanity.",
     },
     {
-      url: "https://todo.shuttle.rs",
+      url: "https://todo.shuttleapp.rs",
       name: "Todo List",
       description:
         "A todo list application built with Rust, HTMX, Askama & TailwindCSS",
