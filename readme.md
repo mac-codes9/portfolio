@@ -17,4 +17,5 @@ Hosted on Vercel and Upstash.
 - [ ] Now Playing, redis: ‘{track: {name, url, artist}, datetime}’
   - Check on load, if recently updated use ‘Now Playing’. Else ‘Recently Played’
   - ‘Now Playing’: animated equaliser neutral-100, ‘Recently Played, no animation neutral-400
+  - NOTE: This requires a $99 Apple Developer Programme enrollment so will have to wait.
 - [ ] Add glowy light in footer
