@@ -5,7 +5,7 @@
     {
       heading: "Web Development",
       description:
-        "I create beautiful, high speed websites with cutting-edge technologies including Next.js, TypeScript & TailwindCSS.",
+        "Beautiful, high speed websites and efficient systems programs with Rust, Next.js, Typescript & More.",
     },
     {
       heading: "Systems Knowledge",
