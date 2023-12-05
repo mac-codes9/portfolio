@@ -31,7 +31,7 @@
 <div>
   <Title text="Projects" />
   <div
-    class="flex flex-col items-center justify-center mx-auto pt-4 mdl:flex-row mdl:flex-wrap mdl:items-start"
+    class="flex flex-col items-center justify-center mx-auto pt-4 pb-2 mdl:flex-row mdl:flex-wrap mdl:items-start"
   >
     {#each projects as { url, name, description }}
       <a
