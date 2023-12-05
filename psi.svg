@@ -66,6 +66,7 @@
 				display: none
 			}
 		</style>
+	<div style="margin: 0 auto">
 		<svg class="guage-div guage-perf guage-green" viewBox="0 0 200 200" width="200" height="200" x="0" y="0">
 			<circle class="gauge-base" r="56" cx="100" cy="60" stroke-width="8"></circle>
 			<circle class="gauge-arc guage-arc-1" r="56" cx="100" cy="60" stroke-width="8" style="stroke-dasharray: 351.858, 351.858;"></circle>
@@ -90,6 +91,7 @@
 			<text class="guage-text" x="100px" y="60px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">97</text>
 			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">SEO</text>
 		</svg>
+	</div>
 		<svg width="604" height="76" x="200" y="250">
 			<g>
 				<rect fill="none" id="canvas_background" height="80" width="604" y="-1" x="-1"/>
