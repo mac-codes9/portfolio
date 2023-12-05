@@ -24,7 +24,7 @@
 
 <Title text="Projects" />
 <div
-  class="flex flex-col items-center justify-center mx-auto mdl:flex-row mdl:flex-wrap mdl:items-start"
+  class="flex flex-col items-center mx-auto mdl:flex-row mdl:flex-wrap mdl:items-start"
 >
   {#each projects as { url, name, description }}
     <a
