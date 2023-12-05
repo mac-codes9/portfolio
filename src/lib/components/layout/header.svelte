@@ -3,7 +3,7 @@
   import Links from "./links.svelte";
 </script>
 
-<header class="mb-12">
+<header class="mb-10">
   <Glow />
   <div class="w-full flex justify-between items-start">
     <Links />
