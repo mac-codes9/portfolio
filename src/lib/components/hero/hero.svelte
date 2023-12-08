@@ -4,7 +4,7 @@
 </script>
 
 <div class="space-y-2 w-full max-w-lg mx-auto md:max-w-4xl">
-  <h1 class="text-3xl mb-6">Hi, I'm Mac 👋</h1>
+  <h1 class="text-neutral-100 text-3xl mb-6">Hi, I'm Mac 👋</h1>
   <p class="max-w-3xl">
     I am a software developer, incredibly passionate about building a healthy,
     happy and sustainable future for planet earth and beyond, through technology
@@ -18,7 +18,7 @@
     <Counter {clicks} {clicked} />
     <a
       href="https://github.com/mac-codes9"
-      class="button no-underline flex items-center gap-x-[2px] bg-neutral-100 hover:bg-neutral-400 text-neutral-900"
+      class="text-neutral-400 bg-transparent border-[1px] px-2 py-1 rounded-md transition-colors duration-300 hover:bg-neutral-100 hover:text-neutral-100 disabled:border-neutral-600 disabled:text-neutral-600 disabled:bg-transparent no-underline flex items-center gap-x-[2px]"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

@@ -31,8 +31,8 @@
     class="flex flex-col items-center justify-center mx-auto md:flex-row md:flex-wrap"
   >
     {#each skills as { heading, description }}
-      <div class="skill my-4 md:w-96 md:py-0 md:mx-9">
-        <h2>{heading}</h2>
+      <div class="my-4 md:w-80 md:py-0 md:mx-9">
+        <h2 class="text-3xl font-bold bg-gradient-to-r bg-clip-text text-transparent mb-2">{heading}</h2>
         <p>{description}</p>
       </div>
     {/each}
