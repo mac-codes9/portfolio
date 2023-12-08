@@ -31,7 +31,7 @@
     class="flex flex-col items-center justify-center mx-auto md:flex-row md:flex-wrap"
   >
     {#each skills as { heading, description }}
-      <div class="my-4 md:w-80 md:py-0 md:mx-9">
+      <div class="skill my-4 md:w-80 md:py-0 md:mx-9">
         <h2 class="text-3xl font-bold bg-gradient-to-r bg-clip-text text-transparent mb-2">{heading}</h2>
         <p>{description}</p>
       </div>
@@ -41,7 +41,7 @@
 
 <style lang="postcss">
   .skill h2 {
-    @apply text-3xl font-bold bg-gradient-to-r from-pink-500 to-violet-500 bg-clip-text text-transparent mb-2;
+    @apply from-pink-500 to-violet-500;
   }
   .skill:first-child h2 {
     @apply from-red-500 to-orange-500;
