@@ -28,10 +28,10 @@
 <div>
   <Title text="Skills" />
   <div
-    class="flex flex-col items-center justify-center mx-auto mdl:flex-row mdl:flex-wrap"
+    class="flex flex-col items-center justify-center mx-auto md:flex-row md:flex-wrap"
   >
     {#each skills as { heading, description }}
-      <div class="skill my-4 mdl:w-[326px] md:py-0 md:mx-9">
+      <div class="skill my-4 md:w-96 md:py-0 md:mx-9">
         <h2>{heading}</h2>
         <p>{description}</p>
       </div>
