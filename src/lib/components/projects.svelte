@@ -1,31 +1,6 @@
 <script>
   import Title from "$lib/components/title.svelte";
-  const projects = [
-    {
-      url: "https://github.com/mac-codes9/initialise",
-      name: "Initialise",
-      description:
-        "A Rust program to configure my dotfiles and run system tools installation.",
-    },
-    {
-      url: "https://3sidedcube.com",
-      name: "3 Sided Cube",
-      description:
-        "Frontend role working with WordPress, React, Next and other tools.",
-    },
-    {
-      url: "https://whatsername.vercel.app/",
-      name: "Whatsername",
-      description:
-        "Landing Page, Blog and Storefront built with Next.js, Stripe & Sanity.",
-    },
-    {
-      url: "https://todo.shuttleapp.rs",
-      name: "Todo List",
-      description:
-        "A todo list application built with Rust, HTMX, Askama & TailwindCSS",
-    },
-  ];
+  const projects = [];
 </script>
 
 <section>
